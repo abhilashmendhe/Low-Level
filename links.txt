@@ -1,0 +1,18 @@
+// Low-level tutorial
+1. https://www.youtube.com/playlist?list=PLjTveVh7FakJWMQroIQhVxNxMZTl5l1Sc (Jordan has no life)
+2. https://www.youtube.com/playlist?list=PLMCXHnjXnTnvQVh7WsgZ8SurU1O2v_UM7 (Gaurav Sen)
+3. https://www.youtube.com/playlist?list=PL12BCqE-Lp650Cg6FZW7SoZwN8Rw1WJI7 (Soumyajit)
+4. https://lldcoding.com/
+
+// Design Patterns
+1. https://refactoring.guru/design-patterns/creational-patterns
+
+// Rust
+1. https://rust-unofficial.github.io/patterns/intro.html (Design Patterns)
+2. OOPs in rust
+   2.1 https://www.thecodedmessage.com/posts/oop-1-encapsulation/
+   2.2 https://www.thecodedmessage.com/posts/oop-2-polymorphism/)
+   2.3 https://www.thecodedmessage.com/posts/oop-3-inheritance/
+
+3. https://rust-lang.github.io/async-book/01_getting_started/04_async_await_primer.html (Async)
+4. https://doc.rust-lang.org/rust-by-example/index.html (Rust by Example)
