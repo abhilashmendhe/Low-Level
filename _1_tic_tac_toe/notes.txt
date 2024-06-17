@@ -1,0 +1,20 @@
+1. Tic Tac Toe
+
+Requirements
+------------
+Design a Tic Tac Toe where the board size can be nxn with 2 players
+
+Ans:- 
+
+Three classes
+- Player 
+    - Takes 2 input, first is the name of the player and the mark that wants to 
+    be played as. For e.g 'x' or 'o'.
+
+- Board 
+    - Takes only 1 input that is the size of the board.
+
+- Game
+    - Takes 3 inputs. 
+    - First 2 inputs are the player objects.
+    - Last input is the board object.
