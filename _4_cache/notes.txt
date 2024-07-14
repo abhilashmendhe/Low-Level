@@ -1,0 +1,12 @@
+Cache
+-----
+
+Cache is a set of key-value pairs that can be used to instantly read/write with min. time complexity.
+Cache has limited storage so certain elements are needed to evict from the cache depending on 
+the eviction policy.
+
+Eviction policies
+-----------------
+1) Random - Randomly get/put elements from cache with no priority.
+2) FIFO - Have a queue of keys, delete the first element from the queue when gets full.
+3) LRU - Have doubly linked list. When put/get element from cache, set them to the highest priority.
